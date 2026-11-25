@@ -1,0 +1,17 @@
+MongoDB is useful for HR systems with flexible employee records, where different employees may have different information.
+
+
+
+MongoDB is suitable for storing resumes, skills, project details, and frequently changing employee data.
+
+
+
+PostgreSQL is better for structured HR data such as employee details, salaries, attendance, and payroll.
+
+
+
+PostgreSQL provides strong relationships, transactions, and constraints to maintain accurate and consistent data.
+
+
+
+I would choose MongoDB for flexible data and PostgreSQL for structured data and reliable transactions in an HR system.
